@@ -36,11 +36,11 @@ a {
 }
 
 .btn-wrapper {
-  margin: 20px 0;
+  margin: 100px 0;
 }
 
 .btn-wrapper p {
-  margin: 10px 0;
+  margin: 100px 0;
 }
 
 .schedule {
@@ -53,15 +53,15 @@ a {
 }
 
 .line {
-  background-color: #47fa00;
+  background-color: #9400d3;
 }
 
 .btn {
-  padding: 10px 24px;
+  padding: 100px 600px;
   color: #000;
   display: inline-block;
   opacity: 0.8;
-  border-radius: 4px;
+  border-radius: 90px;
 }
 
 .btn:hover {
