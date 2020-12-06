@@ -18,7 +18,7 @@ a {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 2000px;
+  height: 1400px;
   padding: 180px 0 100px 0;
   color: white;
   text-align: center;
@@ -57,7 +57,7 @@ a {
 }
 
 .btn {
-  padding: 10px 60px;
+  padding: 100px 60px;
   color: #000;
   display: inline-block;
   opacity: 0.8;
